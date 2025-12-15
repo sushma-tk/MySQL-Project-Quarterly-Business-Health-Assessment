@@ -8,7 +8,7 @@ As a data analyst, the goal was to use SQL to process order and customer data an
 This table consolidates the most important operational and financial metrics across the four quarters, clearly illustrating the business's downward spiral.
 
 | Metric | Q1 Output | Q2 Output | Q3 Output | Q4 Output | Trend Summary | 
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | **Net Revenue** | $39.6M | $32.9M | $29.4M | $23.5M | Steadily declining | 
 | **Total Orders** | 310 | 262 | 229 | 199 | Fewer customers are placing orders| 
 | **Avg. Rating** (1-5) | 3.55 | 3.35 | 2.96 | 2.40 | Steadily worsening satisfaction | 
